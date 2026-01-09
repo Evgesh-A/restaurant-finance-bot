@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: restaurant-bot
+    env: python
+    region: frankfurt # или ближайший регион
+    build
